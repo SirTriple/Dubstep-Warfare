@@ -1,0 +1,6 @@
+"AddonInfo"
+{
+	"name" "Dubstep Cannon"
+	"author_name" "Triple"
+	"info" "Wub Wub"
+}

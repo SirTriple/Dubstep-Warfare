@@ -1,0 +1,11 @@
+"Dubstep WarFare"
+{
+	"base"		"base"
+	"title"		"Dubstep WarFare"
+	"maps"		"^bg_"
+	"menusystem"	"1"
+	"settings"
+	{
+
+	}
+}
