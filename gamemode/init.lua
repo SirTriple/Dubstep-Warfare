@@ -31,7 +31,16 @@ local team = math.random( 1, 2 )
 		team = 2 then 
 			ply:SetTeam( 2 )
 		end
-	end
+		B = team.NumPlayers( 1 )
+		R = team.NumPlayers( 2 )
+		if B > R then
+			ply:SetTeam( 2 )
+		else if
+			R > B then
+				ply:SetTeam( 1 )
+			end
+			
+		end
 	
 end
 
