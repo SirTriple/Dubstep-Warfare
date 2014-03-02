@@ -22,5 +22,5 @@ function GM:PlayerLoadout( ply )
 end
 
 function GM:PlayerInitialSpawn( ply )
-	   ply:PrintMessage( HUD_PRINTTALK, "Welcome, " .. ply:Name() .. "to Dubstep WarFare, a gamemode by Triple" )
+	   ply:PrintMessage( HUD_PRINTTALK, "Welcome, " .. ply:Name() .. "to Dubstep WarFare, a gamemode by Triple and Boss" )
 end
